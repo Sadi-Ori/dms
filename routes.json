@@ -1,0 +1,3062 @@
+{
+  "success": true,
+  "data": [
+    {
+      "route": "/home",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-cow",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/donate-to-gaza-appeal",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/sponsor-an-orphan-in-gaza",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/appeal-gaza",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/children-gaza",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah-jariyah-for-deceased-parents",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/palestine-zakat",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/zakat-calculator-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/zakat-calculator-australia",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/zakat-calculator-uk",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah-palestine",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/zakat-calculator-india",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/save-lives-in-gaza",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/zakat-calculator-usa",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/zakat-calculator-uae",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/zakat-calculator-bd",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/gold-zakat-calculator",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/zakat-calculator-pakistan",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah-jariyah",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/belal-assad-uk-fundraiser-dinner",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/zakat-on-gold",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/dua-for-palestine",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/pray-for-palestine",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/ramadan-dua",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/sabir-test_217348723758239428947285",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/fitrana",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/zakat-donation",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/zakat/zakat-al-fitr",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/fidya",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/kaffarah",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/eid-al-fitr-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/is-matw-project-legit",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/crisis-and-emergencies/palestine-famine",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/ramadan/last-10-nights",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/pay-zakat",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/laylatul-qadr-2025-old",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/eid-mubarak-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/ramadan/fidya-kaffarah",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/nisab",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/ramadan",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/zacky-friends-jan",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/crisis-and-emergencies/palestine",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/sis-mor-tea-jan",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/donations-to-palestine",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah-jariyah/build-a-water-well",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah-jariyah/build-a-masjid",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/ramadan-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/bel-asd-mal-even",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/utm-test",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/ramadan-new",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/nak-uk-event",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/winter",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/yus-uk-feb-event",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/orphans",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/ramadan-reset",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/ramadan-iftar-dinner",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/crisis-and-emergencies/save-orphans",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/last-chance-feed-40-orphans",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/cms-ramadan-new-two",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/about-us",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/ramadan2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/fidya-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/zakat-calculator-pkr",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/donate-zakat",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/how-to-calculate-zakat-on-gold",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/zakat-on-1-tola-gold",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/zakat",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/zakat-ul-fitr-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/ramadan-live-fundraiser",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/shabbir-obaida-march",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/blessed-iftar-dinner-uk-march",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/laylatul-qadr-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/laylatul-qadr",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/ramadan25",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/my-ten-nights",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/laylatul-qadr-dua",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/ust-moh-baj-apr",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/eid-al-adha-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/cheapest-qurbani-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/pakistan-qurbani",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/force-de-fam-april",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-donation",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-palestine",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-yemen",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-bangladesh",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-africa",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-egypt",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-afghanistan",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/dhul-hijjah-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-syria",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-lebanon",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-jordan",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/donations-for-palestine",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-sheep",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/category/food-aid",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/call-center",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/winter-emergency-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/gaza-winter-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/bel-asd-eur-nov-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/sudan-crisis",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/mufti-menk-mal-dec-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/1-million-meals",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/gaza-flood",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/ahmad-hraichie-mal-nov-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/dr-rania-nov-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/donate-gaza",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/moodi-women-oct-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/sacrifice",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/donate/make-a-donation",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/current-projects/sacrifice",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/product-tag/sacrifice",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah-jariyah/sacrifice",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/zakat/give-zakat",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/top-10",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/qurban",
+      "route_type": "builder",
+      "domain": "semi-prod.matwcheckout.org",
+      "no_follow": false
+    },
+    {
+      "route": "/gaza-qurban",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/gaza-qurbani",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-eid-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/annual-reports",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/mufti-menk-mal-may",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-uk",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/donate-to-help-children-in-west-bank-and-gaza",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah-for-gaza-how-your-giving-helps",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/polio-outbreak-in-gaza-children-at-risk",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/gaza-emergency-relief-donate-from-australia",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/sisters-brunch-may",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/bel-asd-may-canada",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah-jariyah/project-noor",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/donate-qurbani-australia-gaza-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/give-qurbani",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/donate-qurbani-usa-gaza-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/donate-qurbani-uk-gaza-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-france-2025-gaza",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/mishary-europe-tour-jun",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/yasmin-mogahed-europe-june",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/orphans-of-ummah",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/nak-mal-jun",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/yas-aus-jun",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/live-on-field",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/abu-tay-eur",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/yas-sar-jul",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/water-aid",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/crisis-and-emergencies/countries-in-crisis",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/100-donation-policy",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/multiplyMyImpact",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/gdpr",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/mufti-menk-mal-jul-25",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/privacypolicy",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/contact",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/food-and-water-aid",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/social-media",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/our-promise",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/phishing-scams",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/policies",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/haifa-mal-jul",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/annual-quran",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/palestine-new",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/aqiqah",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/special-cases",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/opt-out-new",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/omar-sul-mal-aug",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah-jariyah/health",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah-jariyah/orphans",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/gaza-famine-meals",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah-jariyah/gift-of-sound",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/ali-banat",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah-jariyah/sustainable",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/subscription",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/lebanon-appeal",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/dr-haifa-aus-aug",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/ali-ham-aus-aug",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/purpose",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/loved-ones-legacy",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/gaza-hospital-support",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/sh-bel-sep-nz",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/mish-alaf-sep-au",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/wael-ibra-sep-uk",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/gaza-city-attack",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/sheikh-wael-ibrahim-australia-october-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/maryam-lemu-malaysia-september-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/gaza-flour-distribution",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/waleed-hakeem-malaysia-september",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/gift-aid-uk",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/bel-asd-per-bris-oct-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/gaza-hot-meals",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/nak-aus-oct-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/mus-brigs-mal-oct-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/events/night-for-syria-oct-2025",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/cancel",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/unsubscribe",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/namaz-times/uk/namaz-time-middlesbrough",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-cardiff",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-hayes",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-bradford",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-smethwick",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-walsall",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-milton-keynes",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-southall",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/us/namaz-time-minneapolis",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/us/namaz-time-atlanta",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/us/namaz-time-cambridge",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/us/namaz-time-sacramento",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/us/namaz-time-san-diego",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/us/namaz-time-denver",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/us/namaz-time/albany-ny",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/us/namaz-time-bronx",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/us/namaz-time-irvine",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-edmonton",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-derby",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-bury-park",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-oldham",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-nelson-lancashire",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-middlesbrough",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-lincoln",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-bradford",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-halifax",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-smethwick",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-accrington",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-rotherham",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-ipswich",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-watford",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-aylesbury",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-swindon",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-halifax",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-peterborough",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-preston",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-aberdeen",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-walsall",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-newcastle-upon-tyne",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-newcastle",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-reading",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/manchester",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-glasgow",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/bradford",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/luton",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/london",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/bolton",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/birmingham",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/york",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/wythenshawe",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/worcester",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/wolverhampton",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/woking",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/wednesbury",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/west-bromwich",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/watford",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/walthamstow",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/walsall",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-wakefield",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/uxbridge",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/tipton",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/telford",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/swansea",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/sunderland",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/stratford",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/stourbridge",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/stoke-on-trent",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/stoke",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/stockton",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/stockport",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/st-albans",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/southampton",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-southall",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/smethwick",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-slough",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/sheffield",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/scunthorpe",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/scarborough",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/salford",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/rotherham",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/romford",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/rochdale",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/redditch",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/reading",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/preston",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/portsmouth",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/peterborough",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/oxford",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/oldham",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/oldbury",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/nuneaton",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/nottingham",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/norwich",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/northampton",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/newport",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/newcastle-upon-tyne",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/newcastle",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-nelson",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/motherwell",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-milton-keynes",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-middlesbrough",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/maidenhead",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/livingston",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/liverpool",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/lincoln",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/leyton",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/levenshulme",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/leicester",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/leeds",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-keighley",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/ipswich",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-ilford",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/hull",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/huddersfield",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/hounslow",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-high-wycombe",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-hemel-hempstead",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/hayes",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/harrow",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/harlow",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/gloucester",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/gillingham",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/falkirk",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/enfield",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/edinburgh",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/east-london",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/dudley",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/dundee",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/dubai",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/ie/dublin",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/doncaster",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/dewsbury",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/derby",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/dagenham",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/cradley-heath",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/crawley",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/coventry",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/colchester",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/cheetham-hill",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/chesham",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/cardiff",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/cambridge",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-bury",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/burton-on-trent",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/burton",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-burnley",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/bristol",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/brighton",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/brierley-hill",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/bournemouth",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/boston",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/blackpool",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/namaz-time-blackburn",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/belfast",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/bedford",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/batley",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/basingstoke",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/barnoldswick",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/barking",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/banbury",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/aylesbury",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/ashton-under-lyne",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/ashton",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/alum-rock",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/accrington",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/uk/aberdeen",
+      "route_type": "namaz_time",
+      "no_follow": false
+    },
+    {
+      "route": "/matw-appeal",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/gaza-appeal",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/special-cases",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/crisis-and-emergencies/children-in-gaza",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/crisis-and-emergencies/palestine-impact",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/lebanon-appeal",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/limbs-of-hope",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/children-of-gaza",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/appeals/appeal/palestine-refugee-resettlement",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/appeals/appeal/palestine-emergency",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/appeals/appeal/limbs-of-hope",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/appeals/north-lebanon-orphan",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/appeals/limbs-of-hope",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/appeals/palestine-refugee-resettlement",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/appeals/gaza-camp",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/appeals/palestine-emergency",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/appeal/:id",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/top-10-palestine",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/top-10",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/doublethedonation",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/orphans-aia-sponsorship",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/palestine-aia-partnership",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/widget",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/crisis-and-emergencies/afghanistan",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurban/eid-al-adha",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/pakistan-qurbani",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/dhul-hijjah-2024",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/eid-al-adha-2024",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/kurban-bayrami-2024",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-campaign-1",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurban-campaign-1",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurban/day-of-arafat",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurban/ultimate-qurban-fr",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurban/ultimate-qurban-ar",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurban/ultimate-qurban",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurban/ultimate-qurbani",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurban/dhul-hijjah",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/eid-qurban-2024",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-bangladesh",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-lebanon",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-jordan",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-afghanistan",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-syria",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-africa",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-egypt",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-yemen",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-donation",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurban/palestine-ar",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurban/palestine-fr",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani/palestine",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurban/palestine",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/cheapest-qurbani-2024",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurban-fr",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurban-ar",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurban",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-palestine",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-2023",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurbani-2024",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/top-appeals",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/eid-mubarak-2024",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/eid-al-fitr-2024",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/live-meals",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/admin-fee",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/phishing-scams",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/campaign-tt",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah-jariyah/gift-of-sound",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah-jariyah/build-a-water-well-uat",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah-jariyah-uat",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/volunteer-uat",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/laylatul-qadr-2024",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/ramadan/last-10-nights",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/ramadan/fidya-kaffarah-uat",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/:name/:product",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/:name",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/appeals/palestine/:id",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/appeals/:id",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/undefined/*",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/donor/*",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/dashboard/*",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/donor",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/dashboard",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/palestine-ar",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/palestine-fr",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/save-palestine-orphans-fr",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/save-palestine-orphans-ar",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/palestine-refugee-settlement-fr",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/palestine-refugee-settlement-ar",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/palestinian-refugees-egypt",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/medical-aid-for-palestinians",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/crisis-and-emergencies/countries-in-crisis",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/crisis-and-emergencies/bangladesh-appeal",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/crisis-and-emergencies/palestine-refugee-settlement",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/crisis-and-emergencies/save-orphans",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/crisis-and-emergencies/palestine-weekly-global",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/crisis-and-emergencies/palestine-weekly-uk",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/crisis-and-emergencies/palestine-weekly-usa",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/crisis-and-emergencies/palestine-weekly-au",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/crisis-and-emergencies/earthquake-appeal",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/crisis-and-emergencies/libya-floods",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/crisis-and-emergencies/morocco",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/crisis-and-emergencies/emergency-response",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/crisis-and-emergencies/palestine-response",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/crisis-and-emergencies/palestine-campaign",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/crisis-and-emergencies/palestine-subscription",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/palestine-famine-fr",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/palestine-famine-ar",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/crisis-and-emergencies/palestine-famine",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/palestine-emergency-appeal",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/crisis-and-emergencies/palestine",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/orphans/orphan-widget",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/sponsor-an-orphan",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/orphans/support-an-orphan",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/orphans/education",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/orphans/orphan-feast",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/orphans-ar",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/orphans-fr",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/orphans",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah-jariyah/health",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah-jariyah/emergency",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/donation-for-masjid",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah-jariyah/build-a-masjid",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah-jariyah/orphans",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah-jariyah/sustainable",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/olive-tree-sadaqah",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah-jariyah/build-a-water-well",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah-jariyah/orphan-homes",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah-jariyah/project-noor",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah-jariyah-for-deceased",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah-jariyah",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/alibanatlegacyca",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/alibanatlegacy",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/belalassad-april2024",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/noumanalikhan/malaysia",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/muftimenk",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/noumanalikhan",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/yasirandnoumanmalaysia",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/yasirandnouman",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/asmaaandbelal",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/yasminmogahedsingapore",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/yasminmogahedmalaysia",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/yasminmogahedindonesia",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/majedmahmoud-qurban",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/abdul-wahab",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/nauman-ali-khan-december",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/youssra-kandil-november",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/muslim-family-fest-november",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/mustafa-briggs-november",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/doctor-rania-malaysia-november",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/yasmin-mogahed-malaysia-november",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/shaun-king-malaysia",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/belal-assaad-south-africa",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/belal-assad-uk",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/belal-assad-canada",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/belal-assad-europe",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/muftimenek-malaysia",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/iftardinner-march",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/alihammuda-au-tour",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/qasimrafique-australia-feb",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/yasminmogahed-australia-feb",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/yasminmogahed",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/morningtea",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/live-fundraiser",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/muharram-2024",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/muharram",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/news",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/fitrana",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/gift-giving",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/ramadan-dua",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/when-is-eid-2024",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/dua-for-parents",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/dua-for-palestine",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/difference-between-sadaqah-and-lillah",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/dua-for-breaking-fast",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/100-donation-policy",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/aqiqah",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/cancel-crypto",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/processing-crypto",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/our-promise",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/singapore",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/uptime-status",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/fidya",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/kaffarah",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/ramadan/fidya-kaffarah",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/palestine-campaign-3-ar",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/orphans-ar",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/orphans-fr",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/ramadan/laylatul-qadr",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/ramadan",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/subscription-regular-giving",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/subscription",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/donor-receipts",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/live",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/winter",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/loved-ones-legacy",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/donate-now/make-a-donation",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/donate-to-gaza",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/food-and-water-aid-ar",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/food-and-water-aid-fr",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/donate-to-palestine",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/error",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/contact",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/call-center",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/vip",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/the-1-billion-legacy",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/food-and-water-aid/food-aid",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/food-and-water-aid/water-aid",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/food-and-water-aid",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/quick-donate",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/global",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/app",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/receipt",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/volunteer",
+      "route_type": "builder",
+      "no_follow": false
+    },
+    {
+      "route": "/privacypolicy",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/policies",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/annual-reports",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/social-media",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/get-receipt",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/cancel",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/opt-out",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/faq",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/gdpr",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/purpose",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/ali-banat",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/success",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/zakat/zakat-al-fitr",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/zakat-on-gold",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/zakat",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/zakat-landing",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/nisab",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/events/:any",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/zakat-calculator",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/sadaqah-most-popular",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurban-most-popular",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurban/cow",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/qurban/sheep",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/fundraising",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/participant-registration",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/all-appeals",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/all-products",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/checkout",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/usa-general-donation",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/donor/verify-otp",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/donor/login",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/login",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/donations-for-palestine",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/donate-to-palestine-now",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/indexNew",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/home-new",
+      "route_type": "static",
+      "no_follow": false
+    },
+    {
+      "route": "/",
+      "route_type": "static",
+      "no_follow": false
+    }
+  ],
+  "count": 611
+}

@@ -1,0 +1,7 @@
+{
+  "success": false,
+  "data": [],
+  "count": 0,
+  "limit": 20,
+  "error": "internal server error: Limit must be 20 when no main filter is given"
+}
